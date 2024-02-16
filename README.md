@@ -5,7 +5,7 @@ Install goLive
 
 **HOME**
 
-![Screenshot 2024-02-16 at 09-37-59 iCoder-Heaven for Bloggers](https://github.com/Mansi0218/iCoderBootstrp/assets/95520980/bd83aaf8-9e98-4cbc-b95b-043de592da76)
+![Screenshot 2024-02-16 at 09-37-16 iCoder-Heaven for Bloggers](https://github.com/Mansi0218/iCoderBootstrp/assets/95520980/78029e4b-22de-4609-ae46-50ded4a8ce9d)
 
 **LOGIN**
 
@@ -13,4 +13,5 @@ Install goLive
 
 **SIGNUP**
 
-![Screenshot 2024-02-16 at 09-37-16 iCoder-Heaven for Bloggers](https://github.com/Mansi0218/iCoderBootstrp/assets/95520980/78029e4b-22de-4609-ae46-50ded4a8ce9d)
+![Screenshot 2024-02-16 at 09-37-59 iCoder-Heaven for Bloggers](https://github.com/Mansi0218/iCoderBootstrp/assets/95520980/bd83aaf8-9e98-4cbc-b95b-043de592da76)
+
